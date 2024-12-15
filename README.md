@@ -1,8 +1,15 @@
-# React + Vite
+Rick ve Morty Tablosu İçeriği
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uygulamamızın ana sayfasında tüm lokasyonların listesini görmek istiyoruz, bunlara buradan ulaşabilirsiniz
 
-Currently, two official plugins are available:
+Mevcut URL'mizi değiştirmeden lokasyona tıkladığımızda, o lokasyona ait ölü veya diri tüm karakterleri görebilmeliyiz.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Her karakter için görselleri ve kısa bilgileri göstermenin önemli olduğunu unutmayın.
+
+Karakter adlarından birine tıkladığınızda karakter sayfasına yönlendirilmelisiniz. Burada her karakter için alabildiğimiz kadar çok bilgi göstereceğiz
+
+npm start
+
+Uygulamayı geliştirme modunda çalıştırır. Tarayıcıda görüntülemek için http://localhost:5174'ü açın .
+
+Uygulamanız dağıtılmaya hazır!
