@@ -10,6 +10,6 @@ Karakter adlarından birine tıkladığınızda karakter sayfasına yönlendiril
 
 npm start
 
-Uygulamayı geliştirme modunda çalıştırır. Tarayıcıda görüntülemek için http://localhost:5174'ü açın .
+Uygulamayı geliştirme modunda çalıştırır. Tarayıcıda görüntülemek için http://localhost:5173'ü açın .
 
 Uygulamanız dağıtılmaya hazır!
